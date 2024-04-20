@@ -1,1 +1,2 @@
-https://github.com/Mediasm/lab5_gr6_9_smolii.git
+https://github.com/Mediasm/pawcho6.git
+https://github.com/users/Mediasm/packages/container/package/pawcho6
